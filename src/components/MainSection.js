@@ -27,7 +27,7 @@ const MainSection = () => {
                             </span>
 
                             <h1 className="mt-5 text-4xl md:text-5xl xl:text-6xl font-bold leading-tight">
-                                B.Tech Programme
+                                BCA Programme
                             </h1>
 
                             <p className="mt-3 text-lg text-gray-200">
@@ -37,7 +37,7 @@ const MainSection = () => {
                             {/* INFO CARDS */}
                             <div className="mt-10 grid grid-cols-1 sm:grid-cols-2 gap-6">
                                 {[
-                                    ["Programme Duration", "4 Years"],
+                                    ["Programme Duration", "3 Years"],
                                     ["Approval", "AICTE Approved"],
                                     ["Specialisations", "CSE, ME, CE, ECE, EE"],
                                     ["Eligibility", "10+2 with PCM (as per norms)"],
